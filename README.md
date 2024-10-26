@@ -1,2 +1,7 @@
-# ProgramacionDistribuida1
-Tarea 1 
+# UNIVERSIDAD CENTRAL DEL ECUADOR
+## FACULTAD DE INGENIERÍA Y CIENCIAS APLICADAS
+### CARRERA DE INGENIERÍA INFORMÁTICA
+##### PROGRAMACIÓN DOSTRIBUIDA 
+
+TEMA: Capturas de pantalla de la estructura del repositorio y agrégalas a README.MD
+
